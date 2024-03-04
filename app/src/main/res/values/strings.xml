@@ -1,0 +1,11 @@
+<resources>
+    <string name="calculate_tip">Calculate Tip</string>
+    <string name="bill_amount">Bill Amount</string>
+    <string name="how_was_the_service">Tip Percentage</string>
+    <string name="split_with">Split With</string> <!-- Added -->
+    <string name="round_up_tip">Round up tip?</string>
+    <string name="tip_amount">Tip Amount: %s</string>
+    <string name="tip_amount_per_person">Tip Amount Per Person: %s</string> <!-- Added -->
+    <string name="person_icon">Person Icon</string>
+    <string name="app_name" /> <!-- New -->
+</resources>
